@@ -42,6 +42,7 @@
 #define でも :
 #define ひろ(c) L##c
 
+#define いりぐち main
 #define もし if
 #define ナシポインター nullptr
 #define イイエ false
